@@ -9,7 +9,7 @@ end
 
 def list_dwarves(array)
   array.each do |array|
-  puts "Hello #{array}!"
+  puts "Hello #{array}"
   
   
   
