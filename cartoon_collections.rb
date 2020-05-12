@@ -8,9 +8,11 @@ end
   # Print a custom greeting for each element
 
 def list_dwarves(array)
+  count = 0
+  while count < array.length do
   array.each do |array|
   puts "Hello #{array}"
-  
+end
   
   
   # Use `each_with_index` to enumerate over the provided array
