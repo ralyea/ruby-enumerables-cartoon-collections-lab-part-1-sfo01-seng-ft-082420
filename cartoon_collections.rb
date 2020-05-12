@@ -1,5 +1,5 @@
 def greet_characters(array)
-  array.each do |opp|
+  array.each do |array|
   p "#{opp.reverse} wants to start a union!"
 end
   
