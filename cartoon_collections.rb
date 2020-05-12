@@ -13,7 +13,7 @@ def list_dwarves(array)
   array.each do |array|
   puts "Hello #{array}"
 end
-  
+  count += 1
   
   # Use `each_with_index` to enumerate over the provided array
   #
